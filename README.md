@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity, Blockchain**
 
-- 📚 My last readings [The Lean Product Playbook, Sell like crazy, Peter thiel - from zero to one, How to Win Friends and Influence People](The Lean Product Playbook, Sell like crazy, Peter thiel - from zero to one, How to Win Friends and Influence People)
+- 📚 My last readings The Lean Product Playbook, Sell like crazy, Peter thiel - from zero to one, How to Win Friends and Influence People.
 
 - 📝 I regularly write articles on [https://medium.com/dotnetsafer](https://medium.com/dotnetsafer)
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 Development experience especially in: .NET, Laravel/Php, VueJs
 
-- 🧠 Mentality [From a very young age I have been passionate about business and development. First application developed that generated income for me when I was 13 years old, from there I understood the value of my passion.](From a very young age I have been passionate about business and development. First application developed that generated income for me when I was 13 years old, from there I understood the value of my passion.)
+- 🧠 Mentality From a very young age I have been passionate about business and development. First application developed that generated income for me when I was 13 years old, from there I understood the value of my passion.
 
 - ⚡ Fun fact **I am passionate about the gym, I like to have a perfect diet, although I sin with this. And I love all ambitious projects, passionate, intelligent people who always go for more and NEVER stop.**
 
