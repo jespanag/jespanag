@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on [dotnetsafer](https://dotnetsafer.com)
 
-- 🌱 I’m currently learning **Cybersecurity, Blockchain**
+- 🌱 I’m currently learning **Cybersecurity, Blockchain, Saas growth, Automated sales funnel, Web customer retention, Process and organization optimization.**
 
 - 📚 My last readings The Lean Product Playbook, Sell like crazy, Peter thiel - from zero to one, How to Win Friends and Influence People.
 
 - 📝 I regularly write articles on [https://medium.com/dotnetsafer](https://medium.com/dotnetsafer)
 
-- 💬 Ask me about **Reverse engineering, security, microservices, and anything tech**
+- 💬 Ask me about **Reverse engineering, security, microservices, and anything tech/business**
 
 - 📫 How to reach me **juan@dotnetsafer.com**
 
 - 👨‍💻 Development experience especially in: .NET, Laravel/Php, VueJs
 
-- 🧠 Mentality From a very young age I have been passionate about business and development. First application developed that generated income for me when I was 13 years old, from there I understood the value of my passion.
+- 🧠 Mentality: from a very young age I have been passionate about business and development. First application developed that generated income for me when I was 13 years old, from there I understood the value of my passion.
 
 - ⚡ Fun fact **I am passionate about the gym, I like to have a perfect diet, although I sin with this. And I love all ambitious projects, passionate, intelligent people who always go for more and NEVER stop.**
 
